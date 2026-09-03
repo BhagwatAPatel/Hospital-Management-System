@@ -1,6 +1,6 @@
-# COMP1002 Assignment
+# Hospital Management System
 
-This repository contains a Java implementation of several data structures and a simple hospital management system. It was developed as part of a university assignment for COMP1002.
+This repository contains a Java implementation of several data structures and a simple hospital management system.
 
 ## Project Structure
 
